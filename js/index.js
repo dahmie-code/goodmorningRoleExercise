@@ -1,4 +1,3 @@
-
 let cartArr = [];
 let products = [];
 
@@ -55,7 +54,7 @@ const getProducts = async () => {
       showProducts();
 
     } catch (err) {
-        console.error("There is an error fetching the products:", err);
+        console.error("There was an error fetching the products:", err);
     }
 
 }
