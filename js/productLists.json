@@ -1,0 +1,42 @@
+[{
+    "id": 1,
+   "imgUrl":"https://www.douglas.ca/wp-content/uploads/DB-Original-Carousel-6-EN-1.jpg",
+    "name": "Mattress",
+    "shortDesc": "A comfortable mattress for a good night's sleep.",
+    "price": 399.99,
+    "imageAlt": "White Douglas brand mattress with Douglas logo on it on a bed frame in a bedroom setting"
+},
+    {
+        "id": 2,
+        "imgUrl":"https://www.douglas.ca/wp-content/uploads/memory-foam-pillow-gallery-sizes-EN.jpg",
+        "name": "Memory Foam Pillow",
+        "shortDesc": "Ergonomic memory foam pillow for neck support.",
+        "price":59.99,
+        "imageAlt": "White memory foam pillow on a bed with two different size options shown"
+    },
+    {
+        "id": 3,
+        "imgUrl": "https://www.goodmorning.com/wp-content/uploads/foundation-doulgas-juno-1.jpg",
+        "name": "Bed Frame",
+        "shortDesc": "Sturdy wooden bed frame with modern design.",
+        "price": 249.99,
+        "imageAlt": "Douglas brand wooden bed frame foundation with platform design"
+    },
+    {
+        "id": 4,
+        "imgUrl": "https://www.goodmorning.com/wp-content/uploads/GM-Gallery-Template-DAD-202111021000-x-750-f7f7f7-1.jpg",
+        "name": "Cozy Duvet",
+        "shortDesc": "Soft and warm duvet for all seasons.",
+        "price": 89.99,
+        "imageAlt": "Fluffy white duvet neatly folded showing its texture and fullness"
+    },
+    {
+        "id": 5,
+        "imgUrl": "https://www.goodmorning.com/wp-content/uploads/GM-SS-Gallery-Template-202111021000-x-750-f7f7f7-1.jpg",
+        "name": "Cotton Sheets",
+        "shortDesc":"100% cotton bed sheets for ultimate comfort.",
+        "price": 129.99,
+        "imageAlt": "White cotton bed sheets neatly folded showing its smooth texture and detail"
+    }
+
+    ]
